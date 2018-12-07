@@ -1,0 +1,72 @@
+html, body {
+	width: 100%;
+}
+
+body {
+	font-family: Avenir, Verdana, sans-serif;
+	padding: 1em;
+	margin: 0;
+}
+
+h1, h2, h3, p {
+	font-family: Avenir, Cousine, Verdana, sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h1 {
+	text-align: left;
+	font-size: 3em;
+	position: relative;
+	left: 25%;
+}
+
+h2, h3 {
+	font-size: 1em;
+	text-align: right;
+	position: relative;
+	top: 1.4em;
+	width: 20%;
+}
+
+p {
+	position: relative;
+	left: 25%;
+	width: 70%;
+}
+
+code {
+	font-size: 80%;
+	font-family: Monaco, Menlo, monospace, sans-serif;
+	bottom: 0.15em;
+	right: 0;
+	position: absolute;
+	text-align: right;
+}
+
+a {
+	color: inherit;
+}
+
+#webaddress {
+	font-family: Monaco, Menlo, monospace, sans-serif;
+	margin-top: 1em;
+	position: relative;
+	left: 25%;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
+
+h2, #webaddress a {
+	color: #54a0ff;
+}
+
+code {
+	color: #a1b2c3;
+}
+
+a:hover {
+	color: #eb3b5a;
+}
