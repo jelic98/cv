@@ -18,7 +18,7 @@ layout: cv
 </div>
 
 ## Summary
-Software design enthusiast. Loves one-on-one all-night coding sessions. Gets the job done.
+Software design enthusiast. Loves one-on-one all night coding sessions. Gets the job done.
 
 ## Experience
 
@@ -26,7 +26,7 @@ Software design enthusiast. Loves one-on-one all-night coding sessions. Gets the
 __Brand Owner__
 `Sep 2018 - Now`
 
-Building brand awareness, managing budget and growing partner network. Biggest challenge is making original high-quality product with competitive price.
+Building brand awareness, managing budget and growing partner network. Revolutionized marketing and sales strategy. Want to know how? Get in touch with us. Zero dollars has been invested in marketing since the beginning. Constantly trying to improve products, although no negative feedback is received. Biggest challenge is making original high-quality product with competitive price.
 
 [dzoks.rs](https://www.dzoks.rs)
 
@@ -34,7 +34,7 @@ Building brand awareness, managing budget and growing partner network. Biggest c
 __Android Developer__
 `Sep 2016 - Now`
 
-Lead Android developer on [ZigSafe](http://app.zigsafe.com) project. Working in a small team. Understanding business landscape. Working with PM, design team and backend developers. Biggest challenges are preventing security threats mode and changing UI based on configuration JSON downloaded after login and because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library.
+Lead Android developer on [ZigSafe](http://app.zigsafe.com) project. Understanding business landscape. Working in a small team with PM, designer, tester and backend developer. Biggest challenges are preventing security threats and changing UI based on configuration JSON downloaded after login and because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open sourced it. This is when I first fell in love with clean code.
 
 [fintechpro.rs](http://fintechpro.rs)
 
@@ -42,13 +42,13 @@ Lead Android developer on [ZigSafe](http://app.zigsafe.com) project. Working in 
 __Backend Developer__
 `Mar 2016 - Sep 2016`
 
-Worked in a group of freelancers to build custom CMS. Biggest challenge was making content formatting easy and respect a deadline. Solved that by letting users upload Word document.
+Worked in a group of freelancers to build custom CMS. Biggest challenge was making content formatting easy and respect a deadline. Solved that by letting users upload a Word document.
 
 ### Ecloga Apps
 __Software Developer__
 `Jan 2015 - Mar 2016`
 
-Developed software solutions including online store, legal case management system and soft keyboard for Android. Biggest challenge was understanding the client’s needs.
+Developed software solutions including online store, legal case management system, bot for YouTube and soft keyboard for Android. Biggest challenge was understanding the client’s needs.
 
 [ecloga.org](https://www.ecloga.org)
 
@@ -66,7 +66,7 @@ Android client for a system used by Wiener Städtische to prevent kasko policy s
 __Android__
 `Dec 2017 - Now`
 
-App that allows users to be notified in real time about an available parking place near them and to easily navigete to it. Handles parking place payments via SMS. Other mode of this app is made for traffic wardens to help them easily check illegal parked vehicles.
+App that allows users to be notified in real time about an available parking place near them. UI with bigger buttons and less text makes this app suitable for drivers. Handles parking place payments via SMS. Other mode of this app is made for traffic wardens to help them easily check illegal parked vehicles.
 
 [Available on Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
@@ -74,7 +74,7 @@ App that allows users to be notified in real time about an available parking pla
 __PHP__
 `Jan 2018 - Sep 2018`
 
-Official DZOKS ecommerce platform with advanced admin panel functionalities.
+Official DZOKS ecommerce platform with advanced admin panel functionalities including newsletter system, invoice and coupon generator, product warehouse with detailed statistics, real time notifications, etc. Bitcoin payments are supported.
 
 [dzoks.rs](https://www.dzoks.rs)
 
