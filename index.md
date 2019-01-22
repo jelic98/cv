@@ -26,7 +26,7 @@ Software design enthusiast. Loves one-on-one all night coding sessions. Gets the
 __Founder__
 `Sep 2018 - Now`
 
-Building brand awareness, managing budget and growing partner network. Revolutionized marketing and sales strategy. Want to know how? Get in touch with us. Zero dollars has been invested in marketing since the beginning. Constantly trying to improve products, although no negative feedback is received. Multitasking like a boss. Biggest challenge is making original high-quality product with competitive price.
+Building brand awareness, managing budget and growing partner network. Revolutionized marketing and sales strategy. Want to know how? Get in touch with us. Zero dollars has been invested in marketing since the beginning. Constantly trying to improve products, although no negative feedback is received. Biggest challenge is making original high-quality product with competitive price.
 
 [dzoks.rs](https://www.dzoks.rs)
 
