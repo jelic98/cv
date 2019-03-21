@@ -157,4 +157,4 @@ Reinventing The World - Industry 4.0
 
 ## Additional
 
-Non-smoker, Driving licenses: AM, A1, A2, B1, B, M
+Minimalist, Non-smoker, Driving licenses: AM, A1, A2, B1, B, M
