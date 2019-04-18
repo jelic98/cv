@@ -111,8 +111,7 @@ Union University, Belgrade
 BSc in Computer Science 
 `GPA 9.9/10.0`
 
-Award: The best student of the year
-`2017/18`
+Awards: 3x The best student of the semester
 
 [raf.edu.rs](https://raf.edu.rs)
 
