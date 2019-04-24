@@ -19,6 +19,7 @@ layout: cv
 
 ## Summary
 Software architecture enthusiast.
+Always trying to decouple an abstraction from it's implementation.
 Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
 
 ## Experience
