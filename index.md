@@ -41,7 +41,7 @@ The biggest challenge is time and resource management.
 __Android Developer__
 `Sep 2016 - Now`
 
-Acquired to improve the architecture of [ZigSafe](http://app.zigsafe.com) application and push it to the production.
+Acquired to improve the architecture of [ZigSafe](#zigsafe) application and push it to the production.
 As I was building the product, I was getting more attached to it and got to know the business landscape.
 That lead me to propose some useful features which were later implemented.
 Apart from me, the team has a PM, designer and a backend developer.
@@ -56,7 +56,7 @@ __Software Developer__
 
 Developed software solutions including YouTube comment bot and CMS.
 The biggest challenge was understanding the client’s needs.
-Read feedback on my [Freelancer profile](https://www.freelancer.com/u/jelic). 
+Feedback is available on my [Freelancer profile](https://www.freelancer.com/u/jelic). 
 
 [ecloga.org](https://www.ecloga.org)
 
@@ -66,13 +66,11 @@ Read feedback on my [Freelancer profile](https://www.freelancer.com/u/jelic).
 __Android__
 `Sep 2016 - Now`
 
-Android application for a system used by Wiener Städtische to prevent vehicle insurance scams.
+Android application for a system used by [Wiener Städtische](https://wiener.co.rs) to prevent vehicle insurance scams.
 The client receives configuration from the server, reads inputs from many sensors to determine the surrounding environment.
 The client then sends sensor data along with multimedia and form data to the central server for entity matching and policy analytics.
 The solution needed to be secure and reliable.
-Project is part of the Microsoft BizSpark program.
-
-[app.zigsafe.com](http://app.zigsafe.com)
+Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) program.
 
 ### ParkirajMe
 __Android__
