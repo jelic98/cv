@@ -19,8 +19,8 @@ layout: cv
 
 ## Summary
 Software architecture enthusiast.
+Always trying to decouple an abstraction from its implementation.
 Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
-OakNorth seems like a place where responsibility, precision, and eye for details are key factors in engineering roles and my virtues can contribute.
 
 ## Experience
 
