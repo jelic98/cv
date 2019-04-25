@@ -19,8 +19,8 @@ layout: cv
 
 ## Summary
 Software architecture enthusiast.
-Always trying to decouple an abstraction from its implementation.
 Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
+OakNorth seems like a place where responsibility, precision, and eye for details are key factors in engineering roles and my virtues can contribute.
 
 ## Experience
 
@@ -45,7 +45,7 @@ Acquired to improve the architecture of [ZigSafe](#zigsafe) application and push
 As I was building the product, I was getting more attached to it and got to know the business landscape.
 That lead me to propose some useful features which were later implemented.
 Apart from me, the team has a PM, designer and a backend developer.
-The biggest challenges are preventing security threats and allowing dynamic application behaviour.
+The biggest challenges are preventing security threats and enabling dynamic application behaviour.
 Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open sourced it.
 
 [fintechpro.rs](http://fintechpro.rs)
@@ -56,9 +56,8 @@ __Software Developer__
 
 Developed software solutions including YouTube comment bot and CMS.
 The biggest challenge was understanding the client’s needs.
-A couple of clients had left their feedback is on my [Freelancer profile](https://www.freelancer.com/u/jelic). 
-
-[ecloga.org](https://www.ecloga.org)
+A couple of clients had left their feedback is on my [Freelancer profile](https://www.freelancer.com/u/jelic).
+Portfolio is available at [ecloga.org](https://www.ecloga.org).
 
 ## Projects
 
@@ -67,8 +66,8 @@ __Android__
 `Sep 2016 - Now`
 
 Android application for a system used by [Wiener Städtische](https://wiener.co.rs) to prevent vehicle insurance scams.
-The client receives configuration from the server, reads inputs from many sensors to determine the surrounding environment.
-The client then sends sensor data along with multimedia and form data to the central server for entity matching and policy analytics.
+The client receives configuration from the server and while the user is filling up a form, it reads inputs from various sensors to determine the surrounding environment.
+The client then sends sensor data along with multimedia and form data to the central server for entity matching and policy analysis.
 The solution needed to be secure and reliable.
 Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) program.
 
@@ -79,7 +78,7 @@ __Android__
 Android application that allows users to be notified in real-time about an available parking place near them.
 Minimal UI with bigger buttons and less text makes this solution suitable for drivers.
 Also, this application is made for traffic wardens to help them easily check illegally parked vehicles.
-Currently, this system is being implemented in the city of Novi Sad.
+Currently, this system is being implemented in the city of [Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad).
 
 [parkirajme.rs](http://www.parkirajme.rs)
 
@@ -87,8 +86,8 @@ Currently, this system is being implemented in the city of Novi Sad.
 __PHP__
 `Jan 2018 - Sep 2018`
 
-E-commerce platform with advanced admin panel functionalities including newsletter system, invoice and coupon generator, product warehouse with detailed statistics, real-time notifications, accepting Bitcoin and PayPal payments.
-The platform was built with the idea of reusability in mind so this solution can easily be used by other retailers.
+E-commerce platform with advanced admin panel functionalities including newsletter system, invoice and coupon generator, product warehouse with detailed statistics, real-time notifications, accepting Bitcoin and PayPal payments, etc.
+The platform was built with the idea of reusability in mind and this solution can easily be used by other retailers.
 
 [dzoks.rs](https://www.dzoks.rs)
 
@@ -96,11 +95,10 @@ The platform was built with the idea of reusability in mind so this solution can
 __Flutter__
 `May 2018`
 
-Flutter pilot project started for faculty's internal competition regarding application for showing news, scheduled exams and lectures at faculty.
+Flutter pilot project started for faculty's internal contest for the best application for showing news, scheduled exams and lectures at faculty.
 This solution was the only one that can run on iOS devices.
 Why?
-Because I took into account the fact that a high percentage of students had iPhones.
-I decided to build a solution that can be used by the majority of students, although I had plenty of experience in Android.
+Because of the fact that a high percentage of students had iPhones, decided to build a solution that can be used by the majority of students, although I had plenty of experience in Android.
 
 [github.com/jelic98/rafpored](https://www.github.com/jelic98/rafpored)
 
