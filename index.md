@@ -19,7 +19,7 @@ layout: cv
 
 ## Summary
 Software architecture enthusiast.
-Always trying to decouple an abstraction from it's implementation.
+Always trying to decouple an abstraction from its implementation.
 Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
 
 ## Experience
@@ -56,7 +56,7 @@ __Software Developer__
 
 Developed software solutions including YouTube comment bot and CMS.
 The biggest challenge was understanding the client’s needs.
-Couple of clients had left their feedback is on my [Freelancer profile](https://www.freelancer.com/u/jelic). 
+A couple of clients had left their feedback is on my [Freelancer profile](https://www.freelancer.com/u/jelic). 
 
 [ecloga.org](https://www.ecloga.org)
 
