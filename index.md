@@ -50,7 +50,7 @@ Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/
 
 [fintechpro.rs](http://fintechpro.rs)
 
-### Freelancer
+### Freelance
 __Software Developer__
 `Jan 2015 - Sep 2016`
 
