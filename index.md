@@ -161,7 +161,7 @@ __PHP + Laravel + MySQL__, Intermediate
 `Web/Backend`
 
 __JavaScript__, Competent
-// Inter alia, built [genetic algorithm simulation](https://ecloga.org/projects/genetic)
+// Inter alia, built [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
 `Web/Frontend`
 
 ## Conferences
