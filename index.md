@@ -57,7 +57,7 @@ __Software Developer__
 Developed software solutions including YouTube comment bot and CMS.
 The biggest challenge was understanding the client’s needs.
 A couple of clients had left their feedback is on my [Freelancer profile](https://www.freelancer.com/u/jelic).
-Portfolio is available at [ecloga.org](https://www.ecloga.org).
+Portfolio is available at [lazarjelic.com/ecloga](https://lazarjelic.com/ecloga).
 
 ## Projects
 
