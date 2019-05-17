@@ -80,7 +80,7 @@ Minimal UI with bigger buttons and less text makes this solution suitable for dr
 Also, this application is made for traffic wardens to help them easily check illegally parked vehicles.
 Currently, this system is being implemented in the city of [Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad).
 
-[parkirajme.rs](http://www.parkirajme.rs)
+[Available on Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
 ### DZOKS
 __PHP__
