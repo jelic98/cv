@@ -128,7 +128,7 @@ Union University, Belgrade
 `2017 - 2021`
 
 BSc in Computer Science 
-`CGPA 9.8/10.0`
+`CGPA 9.7/10.0`
 
 Awards: 3x The best student of the semester
 
