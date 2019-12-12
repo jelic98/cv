@@ -29,8 +29,8 @@ __Undergraduate Teaching Assistant__
 `Sep 2019 - Now`
 
 Engaged in the Introduction to Programming course.
-Teaching students fundamentals of C programming language and problem solving.
-Apart from that, engaged in Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
+Teaching students fundamentals of C programming language and problem-solving.
+Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
 
 ### DZOKS
 __Founder__
@@ -54,7 +54,7 @@ As I was building the product, I was getting more attached to it and got to know
 That lead me to propose some useful features which were later implemented.
 Apart from me, the team has a PM, designer and a backend developer.
 The biggest challenges are preventing security threats and enabling dynamic application behaviour.
-Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open sourced it.
+Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open-sourced it.
 
 [fintechpro.rs](https://fintechpro.rs)
 
@@ -106,7 +106,7 @@ __Flutter__
 Flutter pilot project started for faculty's internal contest for the best application for showing news, scheduled exams and lectures at faculty.
 This solution was the only one that can run on iOS devices.
 Why?
-Because of the fact that a high percentage of students had iPhones, decided to build a solution that can be used by the majority of students, although I had plenty of experience in Android.
+Because a high percentage of students had iPhones, decided to build a solution that can be used by the majority of students, although I had plenty of experience in Android.
 
 [github.com/jelic98/rafpored](https://www.github.com/jelic98/rafpored)
 
