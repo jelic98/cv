@@ -24,6 +24,14 @@ Living a Socratic lifestyle and constantly learning while staying out of comfort
 
 ## Experience
 
+### Faculty of Computing
+__Undergraduate Teaching Assistant__
+`Sep 2019 - Now`
+
+Engaged in the Introduction to Programming course.
+Teaching students fundamentals of C programming language and problem solving.
+Apart from that, engaged in Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
+
 ### DZOKS
 __Founder__
 `Sep 2018 - Now`
@@ -35,20 +43,20 @@ For that purposes, cracked the official [Post of Serbia’s application](https:/
 Since the beginning, gained experience in building brand awareness with a small budget and customer interaction.
 The biggest challenge is time and resource management.
 
-[dzoks.rs](https://www.dzoks.rs)
+[dzoks.rs](https://dzoks.rs)
 
 ### Fintech M4 Pro
 __Android Developer__
 `Sep 2016 - Now`
 
-Acquired to improve the architecture of [ZigSafe](#zigsafe) application and push it to the production.
+Acquired to improve the architecture of [ZigSafe](https://app.zigsafe.com) application and push it to the production.
 As I was building the product, I was getting more attached to it and got to know the business landscape.
 That lead me to propose some useful features which were later implemented.
 Apart from me, the team has a PM, designer and a backend developer.
 The biggest challenges are preventing security threats and enabling dynamic application behaviour.
 Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open sourced it.
 
-[fintechpro.rs](http://fintechpro.rs)
+[fintechpro.rs](https://fintechpro.rs)
 
 ### Freelance
 __Software Developer__
@@ -89,7 +97,7 @@ __PHP__
 E-commerce platform with advanced admin panel functionalities including newsletter system, invoice and coupon generator, product warehouse with detailed statistics, real-time notifications, accepting Bitcoin and PayPal payments, etc.
 The platform was built with the idea of reusability in mind and this solution can easily be used by other retailers.
 
-[dzoks.rs](https://www.dzoks.rs)
+[dzoks.rs](https://dzoks.rs)
 
 ### Rafpored
 __Flutter__
@@ -111,16 +119,6 @@ Similar to [Google's Remote Config](https://firebase.google.com/docs/remote-conf
 
 [Available on Android Arsenal](https://android-arsenal.com/details/1/6926)
 
-### Dashbug
-__Android, open source__
-`Mar 2018`
-
-Android library that lets developers modify their configuration class(es) at runtime.
-Useful in situations when application's behaviour changes depending on fields in configuration class like theme switcher, user credentials, various flags, etc.
-Developers can alter these fields without recompiling source code and see results immediately.
-
-[Available on Android Arsenal](https://android-arsenal.com/details/1/6891)
-
 ## Education
 
 ### Faculty of Computing
@@ -130,7 +128,7 @@ Union University, Belgrade
 BSc in Computer Science 
 `CGPA 9.7/10.0`
 
-Awards: 3x The best student of the semester
+Awards: 4x The best student of the semester
 
 [raf.edu.rs](https://raf.edu.rs)
 
@@ -152,12 +150,16 @@ __Android + Espresso__, Advanced
 // Known for in a professional circle
 `Mobile`
 
-__C__, Intermediate
-// Part of "Advanced C" student club, Modified Linux kernel
+__C__, Advanced
+// Part of "Advanced C" student club, Modified Linux and FreeRTOS kernel
 `Low-level`
 
+__Python__, Competent
+// Implemented CFG interpreter from scratch, Wrote various scrapers
+`General`
+
 __PHP + Laravel + MySQL__, Intermediate
-// Built complex backend applications
+// Supported business logic through clean APIs and complex DB queries
 `Web/Backend`
 
 __JavaScript__, Competent
@@ -167,7 +169,7 @@ __JavaScript__, Competent
 ## Conferences
 
 [BalCCon](https://2k19.balccon.org)
-`2017, 2018`
+`2017, 2018, 2019`
 
 [Belgrade Test Conference](https://bg-testconference.rs)
 `2017, 2018`
@@ -186,4 +188,4 @@ __JavaScript__, Competent
 
 ## Additional
 
-Minimalist, Non-smoker, Driving licenses: AM, A1, A2, B1, B, M
+Minimalist, Driving licenses: AM, A1, A2, B1, B, M
