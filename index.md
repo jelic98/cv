@@ -6,13 +6,10 @@ layout: cv
 <div id="webaddress">
 	<div>
 		| <a href="tel:+381614437010">+381 614437010</a>
-		<br/>
 		| <a href="mailto:lazarjelic98@gmail.com">lazarjelic98@gmail.com</a>
 		<br/>
 		| <a href="https://www.lazarjelic.com">lazarjelic.com</a>
-		<br/>
 		| <a href="https://www.linkedin.com/in/jelic98">linkedin.com/in/jelic98</a>
-		<br/>
 		| <a href="https://www.github.com/jelic98">github.com/jelic98</a>
 	</div>
 </div>
@@ -36,7 +33,7 @@ Apart from that, engaged in the Natural Language Processing research group lead 
 __Founder__
 `Sep 2018 - Now`
 
-Founded company for designing and selling clothing popular among young Balkan population.
+Founded a company for designing and selling clothing popular among young Balkan population.
 One of the reasons for starting this journey is to generate passive income.
 Decided to automate most of the processes of e-commerce.
 For that purposes, cracked the official [Post of Serbia’s application](https://play.google.com/store/apps/details?id=rs.assecosee.pttandroidapp) and got access to private API which is then used to ship the package at the click of a button.
@@ -128,7 +125,7 @@ Union University, Belgrade
 BSc in Computer Science 
 `CGPA 9.7/10.0`
 
-Awards: 4x The best student of the semester
+Awards: 5x The best student of the semester
 
 [raf.edu.rs](https://raf.edu.rs)
 
@@ -142,49 +139,23 @@ High school diploma – Mathematics
 
 ## Key skills
 
-__Java__, Expert
+__Java__
 // Language of choice for tackling problems and clean architecture
-`General`
 
-__Android + Espresso__, Advanced
+__Android + Espresso__
 // Known for in a professional circle
-`Mobile`
 
-__C__, Advanced
-// Part of "Advanced C" student club, Modified Linux and FreeRTOS kernel
-`Low-level`
+__C__
+// Part of "Advanced C" student club, Modified [Linux](https://github.com/jelic98/raf_os) and [FreeRTOS](https://github.com/jelic98/raf_srv) kernel
 
-__Python__, Competent
-// Implemented CFG interpreter from scratch, Wrote various scrapers
-`General`
+__Python__
+// Implemented [CFG interpreter](https://github.com/jelic98/raf_pp/tree/master/project_2), Done [HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb) and [GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
 
-__PHP + Laravel + MySQL__, Intermediate
-// Supported business logic through clean APIs and complex DB queries
-`Web/Backend`
+__PHP + Laravel + MySQL__
+// Supported business logic through clean APIs and DB queries
 
-__JavaScript__, Competent
+__JavaScript__
 // Inter alia, built [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
-`Web/Frontend`
-
-## Conferences
-
-[BalCCon](https://2k19.balccon.org)
-`2017, 2018, 2019`
-
-[Belgrade Test Conference](https://bg-testconference.rs)
-`2017, 2018`
-
-[DIDS](https://dids.rs)
-`2018`
-
-[eMagine](https://emagine.rs)
-`2018`
-
-[Future Money Tech](https://startit.rs/future-money-tech)
-`2018`
-
-[Reinventing The World - Industry 4.0](https://ntpark-conf.rs)
-`2018`
 
 ## Additional
 
