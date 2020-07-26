@@ -125,7 +125,7 @@ Union University, Belgrade
 BSc in Computer Science 
 `CGPA 9.7/10.0`
 
-Awards: 5x The best student of the semester
+Awards: 6x The best student of the semester
 
 [raf.edu.rs](https://raf.edu.rs)
 
