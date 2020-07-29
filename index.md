@@ -25,7 +25,7 @@ Living a Socratic lifestyle and constantly learning while staying out of comfort
 __Undergraduate Teaching Assistant__
 `Sep 2019 - Now`
 
-Engaged in the Introduction to Programming course.
+Engaged in the Introduction to Programming, Object Oriented Programming and Compiler Construction courses.
 Teaching students fundamentals of C programming language and problem-solving.
 Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
 
