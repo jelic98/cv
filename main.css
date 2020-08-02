@@ -15,7 +15,7 @@ h1 {
 	text-align: left;
 	font-size: 2.5em;
 	position: relative;
-	left: 22%;
+	left: 23%;
 }
 
 h2, h3, h4 {
@@ -34,7 +34,7 @@ h4 {
 p {
 	position: relative;
 	text-align: justify;
-	left: 22%;
+	left: 23%;
 	width: 95%;
 }
 
@@ -46,7 +46,7 @@ a {
 	font-family: Monaco, Menlo, monospace, sans-serif;
 	font-size: 0.7em;
 	position: relative;
-	left: 22%;
+	left: 23%;
 }
 
 #links a {
@@ -56,14 +56,31 @@ a {
 #info {
 	font-size: 0.85em;
 	position: relative;
-	left: 22%;
+	left: 23%;
+	margin-bottom: 1em;
+}
+
+.down1 {
+	margin-top: 1.4em;
+}
+
+.up1 {
+	margin-top: -1.4em;
+}
+
+.up2 {
+	margin-top: -2.4em;
+}
+
+.up3 {
+	margin-top: -3.4em;
 }
 
 h2, #links a {
 	color: #54a0ff;
 }
 
-h4, code {
+h4 {
 	color: #a1a1a1;
 }
 

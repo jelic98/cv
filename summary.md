@@ -17,65 +17,82 @@ layout: cv
 </div>
 
 ## SUMMARY
+
+<div class="up1" markdown="1">
 Software architecture enthusiast.
 Always trying to decouple an abstraction from its implementation.
 Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
+</div>
 
 ## WORK EXPERIENCE
 
 ### Faculty of Computing
 #### Sep 2019 - Now
+
+<div class="up2" markdown="1">
 __Undergraduate Teaching Assistant__
 
 Engaged in the Compiler Construction, Object Oriented Programming and Introduction to Programming courses.
 Teaching students fundamentals of C programming language and problem-solving.
 Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
+</div>
 
 ### DZOKS
 #### Sep 2018 - Now
+#### [dzoks.rs](https://dzoks.rs)
+
+<div class="up3" markdown="1">
 __Founder__
 
 Founded a company for designing and selling clothing popular among young Balkan population.
 Gained experience in building brand awareness with a small budget.
 In order to automate shipping process, cracked the official [Post of Serbia’s application](https://play.google.com/store/apps/details?id=rs.assecosee.pttandroidapp).
 The biggest challenge is time and resource management.
-
-[dzoks.rs](https://dzoks.rs)
+</div>
 
 ### Fintech M4 Pro
 #### Sep 2016 - Now
+#### [fintechpro.rs](https://fintechpro.rs)
+
+<div class="up3" markdown="1">
 __Android Developer__
 
 Acquired to improve the architecture of [ZigSafe](https://app.zigsafe.com) Android application for a system used by [Wiener Städtische](https://wiener.co.rs) to prevent vehicle insurance scams.
 The biggest challenges are preventing security threats and enabling dynamic application behaviour.
 Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open-sourced it.
 Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) program.
-
-[fintechpro.rs](https://fintechpro.rs)
+</div>
 
 ## EDUCATION
 
 ### Faculty of Computing
 #### 2017 - 2021
+#### [raf.edu.rs](https://raf.edu.rs)
+
+<div class="up3" markdown="1">
 Union University, Belgrade
 
-BSc in Computer Science 
+BSc in Computer Science
 // CGPA 9.7/10.0
 
-Awards: 6x The best student of the semester
-
-[raf.edu.rs](https://raf.edu.rs)
+Awards: 6x Scholarship for the best student of the semester
+</div>
 
 ### Grammar school
 #### 2013 - 2017
+#### [gimnazija.org.rs](http://gimnazija.org.rs)
+
+<div class="up3" markdown="1">
 Krusevac
 
 High school diploma – Mathematics
+</div>
 
-[gimnazija.org.rs](http://gimnazija.org.rs)
-
+<div class="down1" markdown="1">
 ## KEY SKILLS
+</div>
 
+<div class="up1" markdown="1">
 __Java__
 // Language of choice for tackling problems and clean architecture
 
@@ -96,7 +113,10 @@ __JavaScript__
 
 __Management + Soft skills__
 // TODO Explain why
+</div>
 
 ## ADDITIONAL
 
+<div class="up1" markdown="1">
 Minimalist, Driving licenses: AM, A1, A2, B1, B, M
+</div>
