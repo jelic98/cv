@@ -5,9 +5,8 @@ layout: cv
 
 <div id="webaddress">
 	<div>
-		| <a href="tel:+381614437010">+381 614437010</a>
+		<a href="tel:+381614437010">+381 614437010</a>
 		| <a href="mailto:lazarjelic98@gmail.com">lazarjelic98@gmail.com</a>
-		<br/>
 		| <a href="https://www.lazarjelic.com">lazarjelic.com</a>
 		| <a href="https://www.linkedin.com/in/jelic98">linkedin.com/in/jelic98</a>
 		| <a href="https://www.github.com/jelic98">github.com/jelic98</a>

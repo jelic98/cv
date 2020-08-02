@@ -3,35 +3,37 @@ layout: cv
 ---
 # Lazar Jelic
 
-<div id="webaddress">
-	<div>
-		| <a href="tel:+381614437010">+381 614437010</a>
-		| <a href="mailto:lazarjelic98@gmail.com">lazarjelic98@gmail.com</a>
-		<br/>
-		| <a href="https://www.lazarjelic.com">lazarjelic.com</a>
-		| <a href="https://www.linkedin.com/in/jelic98">linkedin.com/in/jelic98</a>
-		| <a href="https://www.github.com/jelic98">github.com/jelic98</a>
-	</div>
+<div id="links">
+<a href="tel:+381614437010">+381 614437010</a>
+| <a href="mailto:lazarjelic98@gmail.com">lazarjelic98@gmail.com</a>
+| <a href="https://www.lazarjelic.com">lazarjelic.com</a>
+| <a href="https://www.linkedin.com/in/jelic98">linkedin.com/in/jelic98</a>
+| <a href="https://www.github.com/jelic98">github.com/jelic98</a>
 </div>
 
-## Summary
+<div id="info">
+<strong>Address:</strong> Vasilija Velikog 5/13, 37000 Krusevac, Serbia
+<strong>Date of birth:</strong> 2<sup>nd</sup> of Ocotber 1998
+</div>
+
+## SUMMARY
 Software architecture enthusiast.
 Always trying to decouple an abstraction from its implementation.
 Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
 
-## Experience
+## WORK EXPERIENCE
 
 ### Faculty of Computing
+#### Sep 2019 - Now
 __Undergraduate Teaching Assistant__
-`Sep 2019 - Now`
 
-Engaged in the Introduction to Programming, Object Oriented Programming and Compiler Construction courses.
+Engaged in the Compiler Construction, Object Oriented Programming and Introduction to Programming courses.
 Teaching students fundamentals of C programming language and problem-solving.
 Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
 
 ### DZOKS
+#### Sep 2018 - Now
 __Founder__
-`Sep 2018 - Now`
 
 Founded a company for designing and selling clothing popular among young Balkan population.
 Gained experience in building brand awareness with a small budget.
@@ -41,8 +43,8 @@ The biggest challenge is time and resource management.
 [dzoks.rs](https://dzoks.rs)
 
 ### Fintech M4 Pro
+#### Sep 2016 - Now
 __Android Developer__
-`Sep 2016 - Now`
 
 Acquired to improve the architecture of [ZigSafe](https://app.zigsafe.com) Android application for a system used by [Wiener Städtische](https://wiener.co.rs) to prevent vehicle insurance scams.
 The biggest challenges are preventing security threats and enabling dynamic application behaviour.
@@ -51,28 +53,28 @@ Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) prog
 
 [fintechpro.rs](https://fintechpro.rs)
 
-## Education
+## EDUCATION
 
 ### Faculty of Computing
+#### 2017 - 2021
 Union University, Belgrade
-`2017 - 2021`
 
 BSc in Computer Science 
-`CGPA 9.7/10.0`
+// CGPA 9.7/10.0
 
 Awards: 6x The best student of the semester
 
 [raf.edu.rs](https://raf.edu.rs)
 
 ### Grammar school
+#### 2013 - 2017
 Krusevac
-`2013 - 2017`
 
 High school diploma – Mathematics
 
 [gimnazija.org.rs](http://gimnazija.org.rs)
 
-## Key skills
+## KEY SKILLS
 
 __Java__
 // Language of choice for tackling problems and clean architecture
@@ -92,6 +94,9 @@ __PHP + Laravel + MySQL__
 __JavaScript__
 // Inter alia, built [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
 
-## Additional
+__Management + Soft skills__
+// TODO Explain why
+
+## ADDITIONAL
 
 Minimalist, Driving licenses: AM, A1, A2, B1, B, M
