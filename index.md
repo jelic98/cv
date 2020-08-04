@@ -31,7 +31,7 @@ layout: cv
 __Undergraduate Teaching Assistant__
 
 Engaged in the Compiler Construction, Object Oriented Programming and Introduction to Programming courses.
-Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan).
+Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan) to optimize SGNS word embedding algorithm used in Q&A system.
 </div>
 
 ### DZOKS

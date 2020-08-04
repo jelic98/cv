@@ -6,7 +6,7 @@ Self-explanatory :)
 
 * Explain work duties starting from primary ones
 
-* Add communication and organization skills
+* Add communication and organizational skills
 
 * Replace ADDITIONAL with HOBBIES, DRIVING LICENCE and HONORS AND AWARDS
 
