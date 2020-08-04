@@ -16,12 +16,10 @@ layout: cv
 <strong>Date of birth:</strong> 2<sup>nd</sup> of Ocotber 1998
 </div>
 
-## SUMMARY
+## MASTER IN
 
 <div class="up1" markdown="1">
-Software architecture enthusiast.
-Always trying to decouple an abstraction from its implementation.
-Living a Socratic lifestyle and constantly learning while staying out of comfort zone.
+<span style="color:red;">TODO: Business Analytics</span>
 </div>
 
 ## WORK EXPERIENCE
