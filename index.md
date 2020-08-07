@@ -163,7 +163,7 @@ __C__
 // Part of "Advanced C" student club, Modified [Linux](https://github.com/jelic98/raf_os) and [FreeRTOS](https://github.com/jelic98/raf_srv) kernel
 
 __Python__
-// Implemented [CFG interpreter](https://github.com/jelic98/raf_pp/tree/master/project_2), Done [HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb) and [GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
+// Implemented [C compiler](https://github.com/jelic98/c_compiler), Done [HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb) and [GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
 
 __PHP + Laravel + MySQL__
 // Supported business logic through clean APIs and DB queries

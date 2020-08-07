@@ -1,6 +1,6 @@
 # CV
 
-Self-explanatory :)
+Curriculum Vitae available [here](https://jelic98.github.io/cv/index.html).
 
 ### TODO
 
