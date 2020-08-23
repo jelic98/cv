@@ -70,7 +70,7 @@ Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) prog
 Union University, Belgrade
 
 BSc in Computer Science
-// CGPA 9.7/10.0
+// CGPA 9.6/10.0
 
 Awards: 6x Scholarship for the best student of the semester
 </div>
@@ -83,6 +83,7 @@ Awards: 6x Scholarship for the best student of the semester
 Krusevac
 
 High school diploma – Mathematics
+// CGPA 4.6/5.0
 </div>
 
 <div class="down1" markdown="1">
