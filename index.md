@@ -16,58 +16,60 @@ layout: cv
 <strong>Date of birth:</strong> 2<sup>nd</sup> of Ocotber 1998
 </div>
 
-## MASTER IN
-
-<div class="up1" markdown="1">
-<span style="color:red;">TODO: Business Analytics</span>
-</div>
-
 ## WORK EXPERIENCE
 
-### Faculty of Computing
-#### Sep 2019 - Now
+### RESEARCH FELLOW
+#### Oct 2019 - Present
+#### [raf.edu.rs](https://raf.edu.rs/en)
 
-<div class="up2" markdown="1">
-__Undergraduate Teaching Assistant__
+<div class="up3" markdown="1">
+__SCHOOL OF COMPUTING__
 
-Engaged in the Compiler Construction, Object Oriented Programming and Introduction to Programming courses.
-Apart from that, engaged in the Natural Language Processing research group lead by [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav) and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan) to optimize SGNS word embedding algorithm used in Q&A system.
+Participating in the Natural Language Processing Research Group lead by internationally renown entrepreneur [Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav), who has sold a startup to Facebook and patents to Google, and [Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan) by optimizing the SGNS word embedding neural network, which has diverse practical applications.
 </div>
 
-### DZOKS
-#### Sep 2018 - Now
+### TEACHING ASSISTANT
+#### Sep 2019 - Present
+#### [raf.edu.rs](https://raf.edu.rs/en)
+
+<div class="up3" markdown="1">
+__SCHOOL OF COMPUTING__
+
+Lead the exercise sections for three courses - Compiler Construction, Object Oriented Programming and Introduction to Programming;
+there are multiple groups per course and each group has 30 students.
+
+### FOUNDER
+#### Sep 2018 - Present
 #### [dzoks.rs](https://dzoks.rs)
 
 <div class="up3" markdown="1">
-__Founder__
+__DZOKS__
 
-Founded a company for designing and selling clothing popular among young Balkan population.
-Gained experience in building brand awareness with a small budget.
-In order to automate shipping process, cracked the official [Post of Serbia’s application](https://play.google.com/store/apps/details?id=rs.assecosee.pttandroidapp).
-The biggest challenge is time and resource management.
+Founded an e-commerce retail clothing company that has grown steadily for two years.
+Using word-of-mouth and social media to build brand awareness, the company turned a profit after two months expanding its product line from several to dozens.
+E-commerce platform includes advanced admin panel functionalities with newsletter system, invoice and coupon generator, product warehouse, detailed statistics and real-time notifications.
+Platform may be adopted by for use by other e-commerce businesses.
 </div>
 
-### Fintech M4 Pro
-#### Sep 2016 - Now
+### ANDROID DEVELOPER
+#### Sep 2016 - Present
 #### [fintechpro.rs](https://fintechpro.rs)
 
 <div class="up3" markdown="1">
-__Android Developer__
+__FINTECH M4 PRO__
 
-Acquired to improve the architecture of [ZigSafe](https://app.zigsafe.com) Android application for a system used by [Wiener Städtische](https://wiener.co.rs) to prevent vehicle insurance scams.
-The biggest challenges are preventing security threats and enabling dynamic application behaviour.
-Because of this I’ve developed [Dynamico](https://android-arsenal.com/details/1/6926) library and open-sourced it.
+Developed as a security measure against insurance fraud, the [ZigSafe](https://app.zigsafe.com) Android application provides insurance firms information about clients in real time.
+Working with a team of managers and web developers, took a prototype to a production ready application used by [Wiener Städtische](https://wiener.co.rs), and continue to make occasional improvements to the present time.
 Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) program.
 </div>
 
 ## EDUCATION
 
-### Faculty of Computing
 #### 2017 - 2021
-#### [raf.edu.rs](https://raf.edu.rs)
+#### [raf.edu.rs](https://raf.edu.rs/en)
 
-<div class="up3" markdown="1">
-Union University, Belgrade
+<div class="up2" markdown="1">
+__SCHOOL OF COMPUTING__ - Union University, Belgrade
 
 BSc in Computer Science
 // CGPA 9.6/10.0
@@ -75,83 +77,50 @@ BSc in Computer Science
 Awards: 6x Scholarship for the best student of the semester
 </div>
 
-### Grammar school
 #### 2013 - 2017
 #### [gimnazija.org.rs](http://gimnazija.org.rs)
 
-<div class="up3" markdown="1">
-Krusevac
+<div class="up2" markdown="1">
+__GRAMMAR SCHOOL__ - Krusevac
 
 High school diploma – Mathematics
 // CGPA 4.6/5.0
 </div>
 
-<div class="down1" markdown="1">
 ## PROJECTS
-</div>
 
-### ZigSafe
-#### Sep 2016 - Now
-#### [zigsafe.com](https://app.zigsafe.com)
-
-<div class="up3" markdown="1">
-__Android__
-
-Android application for a system used by [Wiener Städtische](https://wiener.co.rs) to prevent vehicle insurance scams.
-The client receives configuration from the server and while the user is filling up a form, it reads inputs from various sensors to determine the surrounding environment.
-The client then sends sensor data along with multimedia and form data to the central server for entity matching and policy analysis.
-The solution needed to be secure and reliable.
-Project is part of the [Microsoft BizSpark](https://startups.microsoft.com) program.
-</div>
-
-### ParkirajMe
-#### Dec 2017 - Now
+#### Dec 2017 - Present
 #### [Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
-<div class="up3" markdown="1">
-__Android__
+<div class="up2" markdown="1">
+__PARKIRAJME__
 
-Android application that allows users to be notified in real-time about an available parking place near them.
-Minimal UI with bigger buttons and less text makes this solution suitable for drivers.
-Also, this application is made for traffic wardens to help them easily check illegally parked vehicles.
-Currently, this system is being implemented in the city of [Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad).
-
-### DZOKS
-#### Jan 2018 - Sep 2018
-#### [dzoks.rs](https://dzoks.rs)
-
-<div class="up3" markdown="1">
-__PHP__
-
-E-commerce platform with advanced admin panel functionalities including newsletter system, invoice and coupon generator, product warehouse with detailed statistics, real-time notifications, accepting Bitcoin and PayPal payments, etc.
-The platform was built with the idea of reusability in mind and this solution can easily be used by other retailers.
+Android application that allows users to be notified in real-time about nearby available parking spaces.
+Functionality emphasizes ease-of-use for drivers, while also enabling parking enforcement to identify illegaly parked vehicles.
+System is being implemented in the city of [Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad), with delay due to Coronavirus.
 </div>
 
-### Rafpored
 #### May 2018
 #### [GitHub](https://www.github.com/jelic98/rafpored)
 
-<div class="up3" markdown="1">
-__Flutter__
+<div class="up2" markdown="1">
+__RAFPORED__
 
-Flutter pilot project started for faculty's internal contest for the best application for showing news, scheduled exams and lectures at faculty.
-This solution was the only one that can run on iOS devices.
-Why?
-Because a high percentage of students had iPhones, decided to build a solution that can be used by the majority of students, although I had plenty of experience in Android.
+Flutter project started as part of university contect for best information-sharing application, such as scheduled exams and lectures.
+The solution was the only one run on iOS devices, making it most popular solution given the high percentage of students had iPhones and other iOS devices.
 </div>
 
-### Dynamico
 #### Apr 2018
 #### [Android Arsenal](https://android-arsenal.com/details/1/6926)
 
-<div class="up3" markdown="1">
-__Android, open source__
+<div class="up2" markdown="1">
+__DYNAMICO__
 
-Android library for inflating dynamic layouts in runtime based on remote configuration without updating the application.
+Open-source Android library for inflating dynamic layouts in runtime based on remote configuration without updating the application.
 Similar to [Google's Remote Config](https://firebase.google.com/docs/remote-config), but with additional features that make development more flexible.
 </div>
 
-## TECH STACK
+## TECHNICAL SKILLS
 
 <div class="up1" markdown="1">
 __Java__
