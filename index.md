@@ -28,8 +28,8 @@ layout: cv
 <div class="up3" markdown="1">
 __SCHOOL OF COMPUTING__
 
-Participating in the Natural Language Processing Research Group lead by
-internationally renown entrepreneur
+Participant in the Natural Language Processing Research Group led by
+research scientist and entrepreneur
 [Dr Borislav Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav),
 who has sold a startup to Facebook and patents to Google, and
 [Dr Stevan Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
@@ -60,12 +60,12 @@ there are multiple groups per course and each group has 30 students.
 <div class="up3" markdown="1">
 __DZOKS__
 
-Founded an e-commerce retail clothing company that has grown steadily for two
+Founded and lead an e-commerce retail clothing company that has grown steadily for two
 years. Using word-of-mouth and social media to build brand awareness,
 the company turned a profit after two months expanding its product line from
 several to dozens. The custom-built e-commerce platform has functionalities to
 automate most processes including shipping and bookkeeping and may be adopted
-by for use by other e-commerce businesses.
+for use by other e-commerce businesses.
 </div>
 
 <br/>
@@ -81,9 +81,9 @@ Developed as a security measure against insurance fraud, the
 [ZigSafe](https://app.zigsafe.com)
 Android application provides insurance
 firms information about clients in real-time. Working with a team of managers
-and web developers, took a prototype to a production-ready application used
+and web developers, took a prototype to the production-ready application (used
 by
-[Wiener Städtische](https://wiener.co.rs),
+[Wiener Städtische](https://wiener.co.rs)),
 and continue to make occasional
 improvements to the present time. Project is part of the
 [Microsoft BizSpark](https://startups.microsoft.com)
@@ -107,7 +107,7 @@ BSc in Computer Science
 
 CGPA 9.6/10.0
 
-Awards: 6x Scholarship for the best student of the semester
+Awards: Received "Best Student Scholarship" for six consecutive semesters
 </div>
 
 <br/>
@@ -118,14 +118,14 @@ Awards: 6x Scholarship for the best student of the semester
 <div class="up2" markdown="1">
 __GRAMMAR SCHOOL__ - Krusevac
 
-High school diploma in Mathematics
+High School Leaving Diploma in Mathematics
 
 CGPA 4.6/5.0
 </div>
 
 <br/>
 
-## PROJECTS
+## IT PROJECTS
 ---
 
 <br/>
@@ -134,10 +134,10 @@ CGPA 4.6/5.0
 #### [Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
 <div class="up2" markdown="1">
-__PARKIRAJME__
+__PARKIRAJ ME (PARK ME)__
 
-Android application that allows users to be notified in real-time about nearby
-available parking spaces. Functionality emphasizes ease-of-use for drivers,
+Android application that informs drivers of nearby available parking spaces in
+real-time. Functionality emphasizes ease-of-use for drivers,
 while also enabling parking enforcement to identify illegally parked vehicles.
 The system is being implemented in the city of
 [Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad),
@@ -153,9 +153,9 @@ with delay due to COVID-19.
 __RAFPORED__
 
 Flutter project started as part of the university contest for best
-information-sharing application, such as scheduled exams and lectures.
-The solution was the only one run on iOS devices, making it the most popular
-solution given the high percentage of students had iPhones.
+information-sharing application providing information, such as scheduled exams
+and lectures. The solution was the only one run on iOS devices, making it the
+most popular solution given the high percentage of students with iPhones.
 </div>
 
 <br/>
@@ -179,36 +179,37 @@ but with additional features that make development more flexible.
 
 <br/>
 
-__JAVA__ - Language of choice for tackling problems and clean architecture
-
-__ANDROID, ESPRESSO__ - Built above-mentioned applications and libraries
-
-__C__ - Part of "Advanced C" student club,
-Modified
+__C__ - Was part of "Advanced C" student club;
+Language used for modifying
 [Linux](https://github.com/jelic98/raf_os)
 and
 [FreeRTOS](https://github.com/jelic98/raf_srv)
 kernel
 
-__PYTHON__ - Implemented
+__JAVA__ - Language of choice for problem-solving with clean architecture
+
+__PYTHON__ - Language used for
 [C compiler](https://github.com/jelic98/c_compiler),
-Done
 [HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb)
 and
 [GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
 
-__PHP, LARAVEL, MYSQL__ - Built above-mentioned applications and libraries
-
 __JAVASCRIPT__ - Inter alia, built
 [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
 
+__ANDROID, ESPRESSO__ - Used for above-mentioned applications and libraries
+
+__PHP, LARAVEL, MYSQL__ - Used for above-mentioned applications
+
 <br/>
 
-## ADDITIONAL
+## ADDITIONAL INFO
 ---
 
 <br/>
 
-Minimalist
+Healthy and minimalist lifestyle
+
+Read philosophy and business literature
 
 Driving licenses: AM, A1, A2, B1, B, M
