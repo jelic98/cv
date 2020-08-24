@@ -6,7 +6,7 @@ html, body {
 }
 
 h1, h2, h3, h4, p, #info {
-	font-family: Avenir, Cousine, Verdana, sans-serif;
+	font-family: Georgia;
 	margin-top: 0;
 	margin-bottom: 0;
 }
@@ -15,26 +15,24 @@ h1 {
 	text-align: left;
 	font-size: 2.5em;
 	position: relative;
-	left: 25%;
+	left: 27%;
 }
 
 h2, h3, h4 {
 	font-size: 1em;
 	text-align: right;
 	position: relative;
-	width: 23%;
+	width: 25%;
 }
 
 h4 {
-	font-size: 0.8em;
-	font-family: Monaco, Menlo, monospace, sans-serif;
 	font-weight: normal;
 }
 
 p {
 	position: relative;
 	text-align: justify;
-	left: 25%;
+	left: 27%;
 	width: 90%;
 }
 
@@ -43,10 +41,8 @@ a {
 }
 
 #links {
-	font-family: Monaco, Menlo, monospace, sans-serif;
-	font-size: 0.7em;
 	position: relative;
-	left: 25%;
+	left: 27%;
 }
 
 #links a {
@@ -56,7 +52,7 @@ a {
 #info {
 	font-size: 0.85em;
 	position: relative;
-	left: 25%;
+	left: 27%;
 	margin-bottom: 1em;
 }
 

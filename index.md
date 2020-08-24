@@ -89,7 +89,8 @@ program.
 __SCHOOL OF COMPUTING__ - Union University, Belgrade
 
 BSc in Computer Science
-// CGPA 9.6/10.0
+
+CGPA 9.6/10.0
 
 Awards: 6x Scholarship for the best student of the semester
 </div>
@@ -100,8 +101,9 @@ Awards: 6x Scholarship for the best student of the semester
 <div class="up2" markdown="1">
 __GRAMMAR SCHOOL__ - Krusevac
 
-High school diploma – Mathematics
-// CGPA 4.6/5.0
+High school diploma in Mathematics
+
+CGPA 4.6/5.0
 </div>
 
 ## PROJECTS
@@ -147,33 +149,27 @@ but with additional features that make development more flexible.
 ## TECHNICAL SKILLS
 
 <div class="up1" markdown="1">
-__JAVA__
-// Language of choice for tackling problems and clean architecture
+__JAVA__ - Language of choice for tackling problems and clean architecture
 
-__ANDROID + ESPRESSO__
-// Built above-mentioned applications and libraries
+__ANDROID, ESPRESSO__ - Built above-mentioned applications and libraries
 
-__C__
-// Part of "Advanced C" student club,
+__C__ - Part of "Advanced C" student club,
 Modified
 [Linux](https://github.com/jelic98/raf_os)
 and
 [FreeRTOS](https://github.com/jelic98/raf_srv)
 kernel
 
-__PYTHON__
-// Implemented
+__PYTHON__ - Implemented
 [C compiler](https://github.com/jelic98/c_compiler),
 Done
 [HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb)
 and
 [GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
 
-__PHP + LARAVEL + MYSQL__
-// Supported business logic through clean APIs and DB queries
+__PHP, LARAVEL, MYSQL__ - Built above-mentioned applications and libraries
 
-__JAVASCRIPT__
-// Inter alia, built
+__JAVASCRIPT__ - Inter alia, built
 [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
 </div>
 
