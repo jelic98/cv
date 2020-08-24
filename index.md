@@ -46,7 +46,7 @@ practical applications.
 <div class="up3" markdown="1">
 __SCHOOL OF COMPUTING__
 
-Lead the exercise sections for three courses - Compiler Construction,
+Lead the exercise classes for three courses - Compiler Construction,
 Object-Oriented Programming and Introduction to Programming;
 there are multiple groups per course and each group has 30 students.
 </div>
