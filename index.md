@@ -13,10 +13,11 @@ layout: cv
 
 <div id="info">
 <strong>ADDRESS:</strong> Vasilija Velikog 5/13, 37000 Krusevac, Serbia
-<strong>DATE OF BIRTH:</strong> 2<sup>nd</sup> of Ocotber 1998
+<strong>DATE OF BIRTH:</strong> 2<sup>nd</sup> of October 1998
 </div>
 
 ## WORK EXPERIENCE
+---
 
 <br/>
 
@@ -29,9 +30,9 @@ __SCHOOL OF COMPUTING__
 
 Participating in the Natural Language Processing Research Group lead by
 internationally renown entrepreneur
-[Dr. Borislav K. Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav),
+[Dr Borislav Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav),
 who has sold a startup to Facebook and patents to Google, and
-[Dr. Stevan A. Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
+[Dr Stevan Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
 by optimizing the SGNS word embedding neural network, which has diverse
 practical applications.
 </div>
@@ -46,7 +47,7 @@ practical applications.
 __SCHOOL OF COMPUTING__
 
 Lead the exercise sections for three courses - Compiler Construction,
-Object Oriented Programming and Introduction to Programming;
+Object-Oriented Programming and Introduction to Programming;
 there are multiple groups per course and each group has 30 students.
 </div>
 
@@ -62,8 +63,8 @@ __DZOKS__
 Founded an e-commerce retail clothing company that has grown steadily for two
 years. Using word-of-mouth and social media to build brand awareness,
 the company turned a profit after two months expanding its product line from
-several to dozens. Custom built e-commerce platform has functionalities to
-automate most processes including shipping and bookkeeping, and may be adopted
+several to dozens. The custom-built e-commerce platform has functionalities to
+automate most processes including shipping and bookkeeping and may be adopted
 by for use by other e-commerce businesses.
 </div>
 
@@ -79,8 +80,8 @@ __FINTECH M4 PRO__
 Developed as a security measure against insurance fraud, the
 [ZigSafe](https://app.zigsafe.com)
 Android application provides insurance
-firms information about clients in real time. Working with a team of managers
-and web developers, took a prototype to a production ready application used
+firms information about clients in real-time. Working with a team of managers
+and web developers, took a prototype to a production-ready application used
 by
 [Wiener Städtische](https://wiener.co.rs),
 and continue to make occasional
@@ -92,6 +93,7 @@ program.
 <br/>
 
 ## EDUCATION
+---
 
 <br/>
 
@@ -124,6 +126,7 @@ CGPA 4.6/5.0
 <br/>
 
 ## PROJECTS
+---
 
 <br/>
 
@@ -135,8 +138,8 @@ __PARKIRAJME__
 
 Android application that allows users to be notified in real-time about nearby
 available parking spaces. Functionality emphasizes ease-of-use for drivers,
-while also enabling parking enforcement to identify illegaly parked vehicles.
-System is being implemented in the city of
+while also enabling parking enforcement to identify illegally parked vehicles.
+The system is being implemented in the city of
 [Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad),
 with delay due to COVID-19.
 </div>
@@ -149,9 +152,9 @@ with delay due to COVID-19.
 <div class="up2" markdown="1">
 __RAFPORED__
 
-Flutter project started as part of university contect for best
+Flutter project started as part of the university contest for best
 information-sharing application, such as scheduled exams and lectures.
-The solution was the only one run on iOS devices, making it most popular
+The solution was the only one run on iOS devices, making it the most popular
 solution given the high percentage of students had iPhones.
 </div>
 
@@ -172,6 +175,7 @@ but with additional features that make development more flexible.
 <br/>
 
 ## TECHNICAL SKILLS
+---
 
 <br/>
 
@@ -201,6 +205,7 @@ __JAVASCRIPT__ - Inter alia, built
 <br/>
 
 ## ADDITIONAL
+---
 
 <br/>
 
