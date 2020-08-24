@@ -18,6 +18,8 @@ layout: cv
 
 ## WORK EXPERIENCE
 
+<br/>
+
 ### RESEARCH FELLOW
 #### Oct 2019 - Present
 #### [raf.edu.rs](https://raf.edu.rs/en)
@@ -34,6 +36,8 @@ by optimizing the SGNS word embedding neural network, which has diverse
 practical applications.
 </div>
 
+<br/>
+
 ### TEACHING ASSISTANT
 #### Sep 2019 - Present
 #### [raf.edu.rs](https://raf.edu.rs/en)
@@ -44,6 +48,9 @@ __SCHOOL OF COMPUTING__
 Lead the exercise sections for three courses - Compiler Construction,
 Object Oriented Programming and Introduction to Programming;
 there are multiple groups per course and each group has 30 students.
+</div>
+
+<br/>
 
 ### FOUNDER
 #### Sep 2018 - Present
@@ -59,6 +66,8 @@ several to dozens. Custom built e-commerce platform has functionalities to
 automate most processes including shipping and bookkeeping, and may be adopted
 by for use by other e-commerce businesses.
 </div>
+
+<br/>
 
 ### ANDROID DEVELOPER
 #### Sep 2016 - Present
@@ -80,7 +89,11 @@ improvements to the present time. Project is part of the
 program.
 </div>
 
+<br/>
+
 ## EDUCATION
+
+<br/>
 
 #### 2017 - 2021
 #### [raf.edu.rs](https://raf.edu.rs/en)
@@ -95,6 +108,8 @@ CGPA 9.6/10.0
 Awards: 6x Scholarship for the best student of the semester
 </div>
 
+<br/>
+
 #### 2013 - 2017
 #### [gimnazija.org.rs](http://gimnazija.org.rs)
 
@@ -106,9 +121,13 @@ High school diploma in Mathematics
 CGPA 4.6/5.0
 </div>
 
+<br/>
+
 ## PROJECTS
 
-#### Dec 2017 - Present
+<br/>
+
+#### Dec 2017 - Dec 2019
 #### [Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
 <div class="up2" markdown="1">
@@ -122,6 +141,8 @@ System is being implemented in the city of
 with delay due to COVID-19.
 </div>
 
+<br/>
+
 #### May 2018
 #### [GitHub](https://www.github.com/jelic98/rafpored)
 
@@ -133,6 +154,8 @@ information-sharing application, such as scheduled exams and lectures.
 The solution was the only one run on iOS devices, making it most popular
 solution given the high percentage of students had iPhones.
 </div>
+
+<br/>
 
 #### Apr 2018
 #### [Android Arsenal](https://android-arsenal.com/details/1/6926)
@@ -146,9 +169,12 @@ on remote configuration without updating the application. Similar to
 but with additional features that make development more flexible.
 </div>
 
+<br/>
+
 ## TECHNICAL SKILLS
 
-<div class="up1" markdown="1">
+<br/>
+
 __JAVA__ - Language of choice for tackling problems and clean architecture
 
 __ANDROID, ESPRESSO__ - Built above-mentioned applications and libraries
@@ -171,10 +197,13 @@ __PHP, LARAVEL, MYSQL__ - Built above-mentioned applications and libraries
 
 __JAVASCRIPT__ - Inter alia, built
 [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
-</div>
+
+<br/>
 
 ## ADDITIONAL
 
-<div class="up1" markdown="1">
-Minimalist, Driving licenses: AM, A1, A2, B1, B, M
-</div>
+<br/>
+
+Minimalist
+
+Driving licenses: AM, A1, A2, B1, B, M
