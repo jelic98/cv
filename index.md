@@ -14,10 +14,46 @@ layout: cv
 <div id="info">
 <strong>ADDRESS:</strong> Vasilija Velikog 5/13, 37000 Krusevac, Serbia
 <strong>DATE OF BIRTH:</strong> 2<sup>nd</sup> of October 1998
+<strong>NATIONALITY:</strong> Serbian
 </div>
 
-## WORK EXPERIENCE
+## EDUCATION
 ---
+
+<br/>
+
+#### 2017 - 2021
+#### [raf.edu.rs](https://raf.edu.rs/en)
+
+<div class="up2" markdown="1">
+__SCHOOL OF COMPUTING__ - Union University, Belgrade
+
+BSc in Computer Science
+
+CGPA 9.6/10.0
+
+Awards: Received "Best Student Scholarship" for six consecutive semesters
+</div>
+
+<br/>
+
+#### 2013 - 2017
+#### [gimnazija.org.rs](http://gimnazija.org.rs)
+
+<div class="up2" markdown="1">
+__GRAMMAR SCHOOL__ - Krusevac
+
+High School Leaving Diploma in Mathematics
+
+CGPA 4.6/5.0
+</div>
+
+<br/>
+
+<div class="up1" markdown="1">
+## BUSINESS EXPERIENCE
+---
+</div>
 
 <br/>
 
@@ -92,39 +128,6 @@ program.
 
 <br/>
 
-## EDUCATION
----
-
-<br/>
-
-#### 2017 - 2021
-#### [raf.edu.rs](https://raf.edu.rs/en)
-
-<div class="up2" markdown="1">
-__SCHOOL OF COMPUTING__ - Union University, Belgrade
-
-BSc in Computer Science
-
-CGPA 9.6/10.0
-
-Awards: Received "Best Student Scholarship" for six consecutive semesters
-</div>
-
-<br/>
-
-#### 2013 - 2017
-#### [gimnazija.org.rs](http://gimnazija.org.rs)
-
-<div class="up2" markdown="1">
-__GRAMMAR SCHOOL__ - Krusevac
-
-High School Leaving Diploma in Mathematics
-
-CGPA 4.6/5.0
-</div>
-
-<br/>
-
 ## IT PROJECTS
 ---
 
@@ -140,8 +143,7 @@ Android application that informs drivers of nearby available parking spaces in
 real-time. Functionality emphasizes ease-of-use for drivers,
 while also enabling parking enforcement to identify illegally parked vehicles.
 The system is being implemented in the city of
-[Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad),
-with delay due to COVID-19.
+[Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad).
 </div>
 
 <br/>
@@ -174,10 +176,18 @@ but with additional features that make development more flexible.
 
 <br/>
 
-## TECHNICAL SKILLS
+## SKILLS
 ---
 
 <br/>
+
+__LEADERSHIP__ - Lead a five-people company;
+Managed student projects for top grades
+
+__COMMUNICATION__ - Received a
+[certificate](https://www.lazarjelic.com/doc?res=ssa.jpeg)
+issued by
+[Soft Skills Academy](https://www.softskillsacademy.rs)
 
 __C__ - Was part of "Advanced C" student club;
 Language used for modifying
@@ -203,8 +213,10 @@ __PHP, LARAVEL, MYSQL__ - Used for above-mentioned applications
 
 <br/>
 
-## ADDITIONAL INFO
+<div class="up1" markdown="1">
+## ADDITIONAL INFORMATION
 ---
+</div>
 
 <br/>
 
