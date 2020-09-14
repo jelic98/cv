@@ -181,7 +181,7 @@ but with additional features that make development more flexible.
 
 <br/>
 
-__LEADERSHIP__ - Lead a five-people company;
+__LEADERSHIP__ - Lead a five-person company;
 Managed student projects for top grades
 
 __COMMUNICATION__ - Received a
