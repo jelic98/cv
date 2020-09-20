@@ -189,6 +189,11 @@ __COMMUNICATION__ - Received a
 issued by
 [Soft Skills Academy](https://www.softskillsacademy.rs)
 
+__ENTREPRENEURSHIP__ - Received a
+[certificate](https://www.lazarjelic.com/doc?res=ntp.jpeg)
+issued by
+[Science Technology Park Belgrade](https://ntpark.rs/en)
+
 __C__ - Was part of "Advanced C" student club;
 Language used for modifying
 [Linux](https://github.com/jelic98/raf_os)
@@ -207,9 +212,7 @@ and
 __JAVASCRIPT__ - Inter alia, built
 [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
 
-__ANDROID, ESPRESSO__ - Used for above-mentioned applications and libraries
-
-__PHP, LARAVEL, MYSQL__ - Used for above-mentioned applications
+__PHP, MYSQL, ANDROID__ - Used for above-mentioned applications and libraries
 
 <br/>
 
