@@ -12,9 +12,15 @@ layout: cv
 </div>
 
 <div id="info">
-<strong>ADDRESS:</strong> Vasilija Velikog 5/13, 37000 Krusevac, Serbia
-<strong>DATE OF BIRTH:</strong> 2<sup>nd</sup> of October 1998
-<strong>NATIONALITY:</strong> Serbian
+<strong>ADDRESS:</strong>
+Vasilija Velikog 5/13, 37000 Krusevac, Serbia
+<strong>DATE OF BIRTH:</strong> 2<sup>nd</sup>
+of October 1998
+<strong>NATIONALITY:</strong>
+Serbian
+<br/>
+<strong><a href="https://www.lazarjelic.com/doc?res=ielts.jpeg">IELTS:</a></strong>
+8.0 overall band score
 </div>
 
 ## EDUCATION
@@ -221,7 +227,6 @@ __PHP, MYSQL, ANDROID__ - Used for above-mentioned applications and libraries
 ---
 </div>
 
-<br/>
 
 Healthy and minimalist lifestyle
 
