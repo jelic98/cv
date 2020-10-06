@@ -19,8 +19,10 @@ of October 1998
 <strong>NATIONALITY:</strong>
 Serbian
 <br/>
-<strong><a href="https://www.lazarjelic.com/doc?res=ielts.jpeg">IELTS:</a></strong>
+<a href="https://www.lazarjelic.com/doc?res=ielts.jpeg">
+<strong>IELTS:</strong>
 8.0 overall band score
+</a>
 </div>
 
 ## EDUCATION
@@ -36,7 +38,7 @@ __SCHOOL OF COMPUTING__ - Union University, Belgrade
 
 BSc in Computer Science
 
-CGPA 9.6/10.0
+[CGPA 9.6/10.0](https://www.lazarjelic.com/doc?res=academic_transcript.jpeg)
 
 Awards: Received "Best Student Scholarship" for six consecutive semesters
 </div>
