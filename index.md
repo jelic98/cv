@@ -77,7 +77,7 @@ research scientist and entrepreneur
 [Dr Borislav Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav),
 who has sold a startup to Facebook and patents to Google, and
 [Dr Stevan Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
-by optimizing the SGNS word embedding neural network, which has diverse
+by optimizing the [SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf), which has diverse
 practical applications.
 </div>
 
@@ -92,7 +92,8 @@ __SCHOOL OF COMPUTING__
 
 Lead the exercise classes for three courses - Compiler Construction,
 Object-Oriented Programming and Introduction to Programming;
-there are multiple groups per course and each group has 30 students.
+standing before more than 100 students to facilitate the acquisition of complex
+knowledge has advanced leadership and communication skills.
 </div>
 
 <br/>
