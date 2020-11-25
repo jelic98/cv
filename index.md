@@ -1,7 +1,7 @@
 ---
 layout: cv
 ---
-# LAZAR JELIC
+# LAZAR JELIĆ
 
 <div id="links">
 <a href="tel:+381614437010">+381 614437010</a>
@@ -13,7 +13,7 @@ layout: cv
 
 <div id="info">
 <strong>ADDRESS:</strong>
-Vasilija Velikog 5/13, 37000 Krusevac, Serbia
+Vasilija Velikog 5/13, 37000 Kruševac, Serbia
 <strong>DATE OF BIRTH:</strong> 2<sup>nd</sup>
 of October 1998
 <strong>NATIONALITY:</strong>
@@ -49,7 +49,7 @@ Awards: Received "Best Student Scholarship" for six consecutive semesters
 #### [gimnazija.org.rs](http://gimnazija.org.rs)
 
 <div class="up2" markdown="1">
-__GRAMMAR SCHOOL__ - Krusevac
+__GRAMMAR SCHOOL__ - Kruševac
 
 High School Leaving Diploma in Mathematics
 
@@ -76,7 +76,7 @@ Participant in the Natural Language Processing Research Group led by
 research scientist and entrepreneur
 [Dr Borislav Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav),
 who has sold a startup to Facebook and patents to Google, and
-[Dr Stevan Milinkovic](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
+[Dr Stevan Milinković](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
 by optimizing the [SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf), which has diverse
 practical applications.
 </div>
