@@ -121,7 +121,7 @@ program.
 <br/>
 
 ### FOUNDER
-#### Sep 2018 - Oct 2020
+#### Sep 2018 - Dec 2020
 #### [dzoks.rs](https://dzoks.rs)
 
 <div class="up3" markdown="1">
