@@ -125,7 +125,7 @@ program.
 #### [dzoks.rs](https://dzoks.rs)
 
 <div class="up3" markdown="1">
-__DZOKS__
+__DŽOKS__
 
 Founded and lead an e-commerce retail clothing company that has grown steadily for two
 years. Using word-of-mouth and social media to build brand awareness,
