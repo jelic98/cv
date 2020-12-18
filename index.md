@@ -21,7 +21,11 @@ Serbian
 <br/>
 <a href="https://www.lazarjelic.com/doc?res=ielts.jpeg">
 <strong>IELTS:</strong>
-8.0 overall band score
+8.0 (L8.5 R8.5 W6.5 S8.0)
+</a>
+<a href="https://www.lazarjelic.com/doc?res=gmat.jpeg">
+<strong>GMAT:</strong>
+670 (Q48 V34 IR5)
 </a>
 </div>
 
@@ -121,7 +125,7 @@ program.
 <br/>
 
 ### FOUNDER
-#### Sep 2018 - Dec 2020
+#### Sep 2018 - Jan 2021
 #### [dzoks.rs](https://dzoks.rs)
 
 <div class="up3" markdown="1">
