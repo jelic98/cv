@@ -218,9 +218,10 @@ __JAVA__ - Language of choice for problem-solving with clean architecture
 
 __PYTHON__ - Language used for
 [C compiler](https://github.com/jelic98/c_compiler),
-[HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb)
-and
+[HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb),
 [GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
+and
+[CoronaHack](https://github.com/jelic98/raf_du/blob/main/homework_1/main.ipynb)
 
 __JAVASCRIPT__ - Inter alia, built
 [genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
