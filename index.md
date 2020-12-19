@@ -77,10 +77,10 @@ CGPA 4.6/5.0
 __SCHOOL OF COMPUTING__
 
 Participant in the Natural Language Processing Research Group led by
-research scientist and entrepreneur
-[Dr Borislav Agapiev](https://www.raf.edu.rs/en/component/k2/item/5583-agapiev-k-borislav),
-who has sold a startup to Facebook and patents to Google, and
-[Dr Stevan Milinković](https://www.raf.edu.rs/en/component/k2/item/5578-milinkovic-a-stevan)
+[Dr Branko Urošević](https://scholar.google.com/citations?user=yLkVO_gAAAAJ),
+who received his PhD at Berkeley and who was an Associate at McKinsey and a Strategy Consulting Manager at KPMG,
+[Dr Borislav Agapiev](https://www.linkedin.com/in/borislavagapiev),
+who has sold a startup to Facebook and patents to Google,
 by optimizing the [SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf), which has diverse
 practical applications.
 </div>
