@@ -110,8 +110,10 @@ knowledge has advanced leadership and communication skills.
 __FINTECH M4 PRO__
 
 Developed as a security measure against insurance fraud, the
-[ZigSafe](https://app.zigsafe.com)
-Android application provides insurance
+[ZigSafe](https://play.google.com/store/apps/details?id=rs.fintechpro.zigsafe.lite)
+is an Android client for a
+[system](https://app.zigsafe.com/)
+that provides insurance
 firms information about clients in real-time. Working with a team of managers
 and web developers, took a prototype to the production-ready application (used
 by
