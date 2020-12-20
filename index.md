@@ -25,7 +25,7 @@ Serbian
 </a>
 <a href="https://www.lazarjelic.com/doc?res=gmat.jpeg">
 <strong>GMAT:</strong>
-670 (Q48 V34 IR5)
+670 (V34 Q48 AWA4 IR5)
 </a>
 </div>
 
