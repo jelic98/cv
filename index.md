@@ -80,8 +80,8 @@ Participant in the Natural Language Processing research group led by
 [Dr Branko Urošević](https://scholar.google.com/citations?user=yLkVO_gAAAAJ),
 [Dr Borislav Agapiev](https://www.linkedin.com/in/borislavagapiev)
 and
-[Dr Stevan Milinković](https://www.raf.edu.rs/en/about-us1/teachers-and-associates/item/5718-milinkovic-a-stevan)
-by optimizing the [SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf), which has diverse
+[Dr Stevan Milinković](https://www.raf.edu.rs/en/about-us1/teachers-and-associates/item/5718-milinkovic-a-stevan).
+Working on the [SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf) optimization, which has diverse
 practical applications.
 </div>
 
@@ -94,9 +94,9 @@ practical applications.
 <div class="up3" markdown="1">
 __SCHOOL OF COMPUTING__
 
-Lead the exercise classes for three courses - Compiler Construction,
-Object-Oriented Programming and Introduction to Programming;
-standing before more than 100 students to facilitate the acquisition of complex
+Lead the exercise classes for three courses: Compiler Construction,
+Object-Oriented Programming and Introduction to Programming.
+Standing before more than 100 students to facilitate the acquisition of complex
 knowledge has advanced leadership and communication skills.
 </div>
 
