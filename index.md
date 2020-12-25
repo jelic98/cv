@@ -44,7 +44,7 @@ BSc in Computer Science
 
 [CGPA 9.6/10.0](https://www.lazarjelic.com/doc?res=academic_transcript.jpeg)
 
-Awards: Received "Best Student Scholarship" for six consecutive semesters
+Awards: Received the "Best Student Scholarship" for six consecutive semesters
 </div>
 
 <br/>
