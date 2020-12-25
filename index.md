@@ -35,7 +35,7 @@ Serbian
 <br/>
 
 #### 2017 - 2021
-#### [raf.edu.rs](https://raf.edu.rs/en)
+#### [raf.edu.rs](https://raf.edu.rs/en/studies-eng/undergraduate-studies/computer-science)
 
 <div class="up2" markdown="1">
 __SCHOOL OF COMPUTING__ - Union University, Belgrade
