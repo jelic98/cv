@@ -152,7 +152,7 @@ for use by other e-commerce businesses.
 #### [Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
 <div class="up2" markdown="1">
-__PARKIRAJ ME (PARK ME)__
+__PARKIRAJ ME__
 
 Android application that informs drivers of nearby available parking spaces in
 real-time. Functionality emphasizes ease-of-use for drivers,
