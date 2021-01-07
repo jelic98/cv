@@ -62,10 +62,8 @@ CGPA 4.6/5.0
 
 <br/>
 
-<div class="up1" markdown="1">
-## BUSINESS EXPERIENCE
+## WORK EXPERIENCE
 ---
-</div>
 
 <br/>
 
@@ -143,7 +141,7 @@ for use by other e-commerce businesses.
 
 <br/>
 
-## IT PROJECTS
+## PROJECTS
 ---
 
 <br/>
