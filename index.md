@@ -81,7 +81,7 @@ and
 [Dr Stevan Milinković](https://www.raf.edu.rs/en/about-us1/teachers-and-associates/item/5718-milinkovic-a-stevan).
 Working on the
 [SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf)
-optimization to provide an optimized base for a pipeline for the Q&A system,
+to provide an optimized base for a pipeline for the Q&A system,
 which is being built by other team members.
 </div>
 
