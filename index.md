@@ -76,7 +76,7 @@ __SCHOOL OF COMPUTING__
 
 Participant in the Natural Language Processing research group led by
 [Dr Branko Urošević](https://scholar.google.com/citations?user=yLkVO_gAAAAJ),
-[Dr Borislav Agapiev](https://www.linkedin.com/in/borislavagapiev)
+[Dr Borislav Agapiev](https://www.linkedin.com/in/borislavagapiev),
 and
 [Dr Stevan Milinković](https://www.raf.edu.rs/en/about-us1/teachers-and-associates/item/5718-milinkovic-a-stevan).
 Working on the
@@ -95,7 +95,7 @@ which is being built by other team members.
 __SCHOOL OF COMPUTING__
 
 Lead the exercise classes for three courses: Compiler Construction,
-Object-Oriented Programming and Introduction to Programming.
+Object-Oriented Programming, and Introduction to Programming.
 Standing before more than 100 students to facilitate the acquisition of complex
 knowledge has advanced leadership and communication skills.
 </div>
@@ -221,7 +221,7 @@ __JAVA__ - Language of choice for problem-solving with clean architecture
 __PYTHON__ - Language used for
 [C compiler](https://github.com/jelic98/c_compiler),
 [HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb),
-[GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb)
+[GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb),
 and
 [CoronaHack](https://github.com/jelic98/raf_du/blob/main/homework_1/main.ipynb)
 
