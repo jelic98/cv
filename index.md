@@ -42,7 +42,7 @@ __SCHOOL OF COMPUTING__ - Union University, Belgrade
 
 BSc in Computer Science
 
-[CGPA 9.6/10.0](https://www.lazarjelic.com/doc?res=academic_transcript.jpeg)
+[CGPA 9.7/10.0](https://www.lazarjelic.com/doc?res=academic_transcript.jpeg)
 
 Awards: Received the "Best Student Scholarship" for six consecutive semesters
 </div>
