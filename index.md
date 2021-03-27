@@ -102,8 +102,25 @@ knowledge has advanced leadership and communication skills.
 
 <br/>
 
+### FOUNDER
+#### Sep 2018 - Mar 2021
+#### [dzoks.rs](https://dzoks.rs)
+
+<div class="up3" markdown="1">
+__DŽOKS__
+
+Founded and lead an e-commerce retail clothing company that has grown steadily for two
+years. Using word-of-mouth and social media to build brand awareness,
+the company turned a profit after two months expanding its product line from
+several to dozens. The custom-built e-commerce platform has functionalities to
+automate most processes including shipping and bookkeeping and may be adopted
+for use by other e-commerce businesses.
+</div>
+
+<br/>
+
 ### ANDROID DEVELOPER
-#### Sep 2016 - Present
+#### Sep 2016 - Sep 2018
 #### [fintechpro.rs](https://fintechpro.rs)
 
 <div class="up3" markdown="1">
@@ -122,23 +139,6 @@ and continue to make occasional
 improvements to the present time. Project is part of the
 [Microsoft BizSpark](https://startups.microsoft.com)
 program.
-</div>
-
-<br/>
-
-### FOUNDER
-#### Sep 2018 - Mar 2021
-#### [dzoks.rs](https://dzoks.rs)
-
-<div class="up3" markdown="1">
-__DŽOKS__
-
-Founded and lead an e-commerce retail clothing company that has grown steadily for two
-years. Using word-of-mouth and social media to build brand awareness,
-the company turned a profit after two months expanding its product line from
-several to dozens. The custom-built e-commerce platform has functionalities to
-automate most processes including shipping and bookkeeping and may be adopted
-for use by other e-commerce businesses.
 </div>
 
 <br/>
