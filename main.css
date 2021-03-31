@@ -3,6 +3,7 @@ html, body {
 	height: 29.7cm;
 	margin: 1cm;
 	padding: 0;
+	background-color: #fdf1e5;
 }
 
 h1, h2, h3, h4, p, #info {
@@ -81,7 +82,7 @@ hr {
 }
 
 h2, #links a {
-	color: #54a0ff;
+	color: #386bab;
 }
 
 h4 {
