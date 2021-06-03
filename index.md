@@ -103,7 +103,7 @@ knowledge has advanced leadership and communication skills.
 <br/>
 
 ### FOUNDER
-#### Sep 2018 - Mar 2021
+#### Sep 2018 - Apr 2021
 #### [dzoks.rs](https://dzoks.rs)
 
 <div class="up3" markdown="1">
