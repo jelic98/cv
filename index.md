@@ -68,7 +68,7 @@ CGPA 4.6/5.0
 <br/>
 
 ### RESEARCH FELLOW
-#### Oct 2019 - Present
+#### Oct 2019 - Aug 2021
 #### [raf.edu.rs](https://raf.edu.rs/en)
 
 <div class="up3" markdown="1">
@@ -88,7 +88,7 @@ which is being built by other team members.
 <br/>
 
 ### TEACHING ASSISTANT
-#### Sep 2019 - Present
+#### Sep 2019 - Jul 2021
 #### [raf.edu.rs](https://raf.edu.rs/en)
 
 <div class="up3" markdown="1">
@@ -103,7 +103,7 @@ knowledge has advanced leadership and communication skills.
 <br/>
 
 ### FOUNDER
-#### Sep 2018 - Apr 2021
+#### Sep 2018 - May 2021
 #### [dzoks.rs](https://dzoks.rs)
 
 <div class="up3" markdown="1">
