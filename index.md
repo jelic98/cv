@@ -34,11 +34,22 @@ Serbian
 
 <br/>
 
-#### 2017 - 2021
-#### [raf.edu.rs](https://raf.edu.rs/en/studies-eng/undergraduate-studies/computer-science)
+#### 2021 - 2022
+#### [london.edu](https://www.london.edu/masters-degrees/masters-in-analytics-and-management)
 
 <div class="up2" markdown="1">
-__SCHOOL OF COMPUTING__ - Union University, Belgrade
+__LONDON BUSINESS SCHOOL__ - University of London, London, United Kingdom
+
+Masters in Analytics and Management
+</div>
+
+<br/>
+
+#### 2017 - 2021
+#### [raf.edu.rs](https://www.raf.edu.rs/en/studies-eng/undergraduate-studies/computer-science)
+
+<div class="up2" markdown="1">
+__SCHOOL OF COMPUTING__ - Union University, Belgrade, Serbia
 
 BSc in Computer Science
 
@@ -52,10 +63,10 @@ Awards: Received the "Best Student Scholarship" for each semester
 <br/>
 
 #### 2013 - 2017
-#### [gimnazija.org.rs](http://gimnazija.org.rs)
+#### [gimnazija.org.rs](https://gimnazija.org.rs)
 
 <div class="up2" markdown="1">
-__GRAMMAR SCHOOL__ - Kruševac
+__GRAMMAR SCHOOL__ - Kruševac, Serbia
 
 High School Leaving Diploma in Mathematics
 
@@ -71,18 +82,18 @@ CGPA 4.6/5.0
 
 ### RESEARCH FELLOW
 #### Oct 2019 - Jul 2021
-#### [raf.edu.rs](https://raf.edu.rs/en)
+#### [raf.edu.rs](https://www.raf.edu.rs/en)
 
 <div class="up3" markdown="1">
 __SCHOOL OF COMPUTING__
 
 Participant in the Natural Language Processing research group led by
-[Dr Branko Urošević](https://scholar.google.com/citations?user=yLkVO_gAAAAJ),
+[Dr Branko Urošević](https://www.scholar.google.com/citations?user=yLkVO_gAAAAJ),
 [Dr Borislav Agapiev](https://www.linkedin.com/in/borislavagapiev),
 and
 [Dr Stevan Milinković](https://www.raf.edu.rs/en/about-us1/teachers-and-associates/item/5718-milinkovic-a-stevan).
 Working on the
-[SGNS word embedding neural network](https://arxiv.org/pdf/1301.3781.pdf)
+[SGNS word embedding neural network](https://www.arxiv.org/pdf/1301.3781.pdf)
 to provide an optimized base for the Q&A system,
 which is being built by other team members.
 </div>
@@ -91,7 +102,7 @@ which is being built by other team members.
 
 ### TEACHING ASSISTANT
 #### Sep 2019 - Jul 2021
-#### [raf.edu.rs](https://raf.edu.rs/en)
+#### [raf.edu.rs](https://www.raf.edu.rs/en)
 
 <div class="up3" markdown="1">
 __SCHOOL OF COMPUTING__
@@ -106,7 +117,7 @@ knowledge has advanced leadership and communication skills.
 
 ### FOUNDER
 #### Sep 2018 - May 2021
-#### [dzoks.rs](https://dzoks.rs)
+#### [dzoks.rs](https://www.dzoks.rs)
 
 <div class="up3" markdown="1">
 __DŽOKS__
@@ -123,23 +134,23 @@ for use by other e-commerce businesses.
 
 ### ANDROID DEVELOPER
 #### Sep 2016 - Sep 2018
-#### [fintechpro.rs](https://fintechpro.rs)
+#### [fintechpro.rs](https://www.fintechpro.rs)
 
 <div class="up3" markdown="1">
 __FINTECH M4 PRO__
 
 Developed as a security measure against insurance fraud, the
-[ZigSafe](https://play.google.com/store/apps/details?id=rs.fintechpro.zigsafe.lite)
+[ZigSafe](https://www.play.google.com/store/apps/details?id=rs.fintechpro.zigsafe.lite)
 is an Android client for a
-[system](https://app.zigsafe.com/)
+[system](https://www.app.zigsafe.com/)
 that provides insurance
 firms information about clients in real-time. Working with a team of managers
 and web developers, took a prototype to the production-ready application (used
 by
-[Wiener Städtische](https://wiener.co.rs)),
+[Wiener Städtische](https://www.wiener.co.rs)),
 and continue to make occasional
 improvements to the present time. Project is part of the
-[Microsoft BizSpark](https://startups.microsoft.com)
+[Microsoft BizSpark](https://www.startups.microsoft.com)
 program.
 </div>
 
@@ -151,7 +162,7 @@ program.
 <br/>
 
 #### Dec 2017 - Dec 2019
-#### [Google Play](https://play.google.com/store/apps/details?id=com.synvolt.parkirajme)
+#### [Google Play](https://www.play.google.com/store/apps/details?id=com.synvolt.parkirajme)
 
 <div class="up2" markdown="1">
 __PARKIRAJ ME__
@@ -160,7 +171,7 @@ Android application that informs drivers of nearby available parking spaces in
 real-time. Functionality emphasizes ease-of-use for drivers,
 while also enabling parking enforcement to identify illegally parked vehicles.
 The system is being implemented in the city of
-[Novi Sad](https://en.wikipedia.org/wiki/Novi_Sad).
+[Novi Sad](https://www.en.wikipedia.org/wiki/Novi_Sad).
 </div>
 
 <br/>
@@ -180,14 +191,14 @@ most popular solution given the high percentage of students with iPhones.
 <br/>
 
 #### Apr 2018
-#### [Android Arsenal](https://android-arsenal.com/details/1/6926)
+#### [Android Arsenal](https://www.android-arsenal.com/details/1/6926)
 
 <div class="up2" markdown="1">
 __DYNAMICO__
 
 Open-source Android library for inflating dynamic layouts in runtime based
 on remote configuration without updating the application. Similar to
-[Google's Remote Config](https://firebase.google.com/docs/remote-config),
+[Google's Remote Config](https://www.firebase.google.com/docs/remote-config),
 but with additional features that make development more flexible.
 </div>
 
@@ -209,26 +220,26 @@ issued by
 __ENTREPRENEURSHIP__ - Received a
 [certificate](https://www.lazarjelic.com/doc?res=ntp.jpeg)
 issued by
-[Science Technology Park Belgrade](https://ntpark.rs/en)
+[Science Technology Park Belgrade](https://www.ntpark.rs/en)
 
 __C__ - Was part of "Advanced C" student club;
 Language used for modifying
-[Linux](https://github.com/jelic98/raf_os)
+[Linux](https://www.github.com/jelic98/raf_os)
 and
-[FreeRTOS](https://github.com/jelic98/raf_srv)
+[FreeRTOS](https://www.github.com/jelic98/raf_srv)
 kernel
 
 __JAVA__ - Language of choice for problem-solving with clean architecture
 
 __PYTHON__ - Language used for
-[C compiler](https://github.com/jelic98/c_compiler),
-[HG sequence mapping](https://github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb),
-[GWAS analysis](https://github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb),
+[C compiler](https://www.github.com/jelic98/c_compiler),
+[HG sequence mapping](https://www.github.com/jelic98/raf_uub/blob/master/project_2/main.ipynb),
+[GWAS analysis](https://www.github.com/jelic98/raf_uub/blob/master/project_1/main.ipynb),
 and
-[CoronaHack](https://github.com/jelic98/raf_du/blob/main/homework_1/main.ipynb)
+[CoronaHack](https://www.github.com/jelic98/raf_du/blob/main/homework_1/main.ipynb)
 
 __JAVASCRIPT__ - Inter alia, built
-[genetic algorithm simulation](https://lazarjelic.com/ecloga/projects/genetic)
+[genetic algorithm simulation](https://www.lazarjelic.com/ecloga/projects/genetic)
 
 __PHP, MYSQL, ANDROID__ - Used for above-mentioned applications and libraries
 
