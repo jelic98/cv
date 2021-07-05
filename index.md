@@ -68,7 +68,7 @@ CGPA 4.6/5.0
 <br/>
 
 ### RESEARCH FELLOW
-#### Oct 2019 - Aug 2021
+#### Oct 2019 - Jul 2021
 #### [raf.edu.rs](https://raf.edu.rs/en)
 
 <div class="up3" markdown="1">
