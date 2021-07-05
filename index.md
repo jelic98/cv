@@ -45,7 +45,8 @@ BSc in Computer Science
 [CGPA 9.7/10.0](https://www.lazarjelic.com/doc?res=academic_transcript.jpeg)
 
 Graduated with First Class Honours (Summa Cum Laude)
-Awards: Received the "Best Student Scholarship" for seven consecutive semesters
+
+Awards: Received the "Best Student Scholarship" for each semester
 </div>
 
 <br/>
